@@ -1,6 +1,6 @@
 👋 Hi, we are TypeFox – a small team of software engineers with our headquarters in Kiel, northern Germany. We innovate and build open source tools, libraries and frameworks and help our customers to make optimal use of these open source components.
 
-![TypeFox Team](./typefox-group-2023.jpg)
+![TypeFox Team](https://raw.githubusercontent.com/TypeFox/.github/main/profile/typefox-group-2023.jpg)
 
 These are the main open source projects that we have founded and are actively maintaining:
 
