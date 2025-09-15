@@ -6,7 +6,7 @@ These are the main open source projects that we have founded and are actively ma
 
  - [Langium](https://github.com/eclipse-langium/langium) – build powerful domain-specific languages (DSLs) with ease
  - [Theia](https://github.com/eclipse-theia/theia) – create custom, web-based IDEs on a VS Code–like foundation
- - [Open Collaboration Tools](https://www.open-collab.tools/) – integrate real-time collaborative editing into IDEs and web apps
+ - [Open Collaboration Tools](https://github.com/eclipse-oct/open-collaboration-tools) – integrate real-time collaborative editing into IDEs and web apps
  - [Sprotty](https://github.com/eclipse-sprotty/sprotty) – render interactive diagrams to visualize models and data
 
 Our GitHub organization is where new ideas take shape—explore more projects and contributions here.
