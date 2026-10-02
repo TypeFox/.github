@@ -6,6 +6,7 @@ The open source projects we founded and actively maintain, sorted by what they h
 
 **Languages and language tooling**
 - [Langium](https://github.com/eclipse-langium/langium) – build domain-specific languages in TypeScript; the de-facto standard for DSLs on the web
+- [Lanzer](https://github.com/TypeFox/lanzer) – a semiformal language for modeling fixtures and testing langium-based DSLs through coding agents
 - [Typir](https://github.com/TypeFox/typir) – give your language a type system: inference, subtyping, assignability, validation
 - [Fastbelt](https://github.com/TypeFox/fastbelt) – our newest framework: high-performance language tooling in Go, for responsive editing in large workspaces
 
